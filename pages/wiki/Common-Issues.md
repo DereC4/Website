@@ -12,7 +12,7 @@ In this example, the `[balance]` sign is enabled but the `[buy]` sign is not.
 Note that enabling `color` means that players will be allowed to use color codes in the sign text, but still requires that another sign type is enabled.
 
 ## EssentialsX overrides a command from Spigot or another plugin
-**Related issues: [#1458](/EssentialsX/Essentials/issues/1458)**  
+**Related issues: [#1458](https://github.com/EssentialsX/Essentials/issues/1458)**  
 You can create an alias for commands using Bukkit's `commands.yml` file, which should be in your server root.
 
 The example below does the following:
