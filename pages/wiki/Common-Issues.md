@@ -43,7 +43,7 @@ overridden-commands:
 Note that in some cases, you may also need to alias the command to the `essentials:` version of the command. [See above](https://github.com/EssentialsX/Essentials/wiki/Common-Issues#essentialsx-overrides-a-command-from-spigot-or-another-plugin) for details. In addition, if you have a plugin running on your proxy ([BungeeCord](https://www.spigotmc.org/wiki/bungeecord/)/[Waterfall](https://github.com/PaperMC/Waterfall) or [Velocity](https://velocitypowered.com)), the command may not even reach the server. EssentialsX can't do anything about this - you need to fix this on the proxy.
 
 ## Tab completion doesn't work for commands that override an EssentialsX command
-**Related issues: [#1384](/EssentialsX/Essentials/issues/1384)**  
+**Related issues: [#1384](https://github.com/EssentialsX/Essentials/issues/1384)**  
 You can alias the command to the version from the other plugin, which should fix tab complete behaviour - see above.
 
 ## I need help with GroupManager! <br /> Where's the updated GroupManager?
